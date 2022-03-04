@@ -1,2 +1,2 @@
 # Chat-illustration
-An integration of a simple chat
+A static integration of a simple chat using HTML & SCSS 
