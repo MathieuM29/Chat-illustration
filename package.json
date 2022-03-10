@@ -1,0 +1,22 @@
+{
+  "name": "chat-illustration-html-scss",
+  "version": "1.0.0",
+  "description": "A static and responsive integration of a simple chat using HTML & SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuM29/Chat-illustration-html-scss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathieuM29/Chat-illustration-html-scss/issues"
+  },
+  "homepage": "https://github.com/MathieuM29/Chat-illustration-html-scss#readme",
+  "dependencies": {
+    "scss": "^0.2.4"
+  }
+}
