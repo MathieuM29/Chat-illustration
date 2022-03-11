@@ -4,7 +4,8 @@
   "description": "A static and responsive integration of a simple chat using HTML & SCSS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass --watch public/style.scss style.css"
   },
   "repository": {
     "type": "git",
